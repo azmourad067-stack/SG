@@ -1,0 +1,38 @@
+{
+  "selection": {
+    "cote_min": 3.0,
+    "cote_min_auto": true,
+    "cote_min_plancher": 2.0,
+    "cote_min_plafond": 6.0,
+    "cote_max": 40.0,
+    "marge_ev": 0.1,
+    "proba_min": 0.03,
+    "max_paris_par_course": 1
+  },
+  "mise": {
+    "methode": "fixe",
+    "mise_fixe": 1.0,
+    "bankroll_initiale": 100.0,
+    "fraction_kelly": 0.25,
+    "plafond_pari_pct": 0.02,
+    "plafond_course_pct": 0.04,
+    "mise_minimale": 0.0
+  },
+  "modele": {
+    "l2_fondamental": 10.0,
+    "l2_combinaison": 20.0,
+    "part_calibration": 0.3,
+    "lissage": 30.0
+  },
+  "backtest": {
+    "jours_entrainement_min": 21,
+    "jours_par_pli": 7,
+    "fenetre": "croissante",
+    "jours_fenetre_glissante": 365,
+    "commission_gains": 0.0,
+    "remise_mises": 0.0,
+    "n_simulations_hasard": 2000,
+    "n_bootstrap": 5000,
+    "graine": 42
+  }
+}

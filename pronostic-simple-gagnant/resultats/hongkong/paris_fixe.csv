@@ -1,0 +1,2 @@
+date,heure_depart,course_id,hippodrome,discipline,num,cheval,cote_decision,cote_finale,rapport_gagnant,gagnant,position,q_dec,taille,p_modele,p_fond,p_marche,rapport_attendu,ev,ev_marche,cote_min_pli,pli,pari,mise,retour,profit,bankroll
+2000-06-07,2000-06-07 02:00:00+00:00,HK_2269,HV,PLAT_GAZON,4,H1362,5.1,5.1,,0.0,4,0.1600947213998338,12,0.22756193494453184,0.005807946174244619,0.1660835493137648,5.126802238123337,0.16666503738530292,-0.14852248766272313,2.0,4,1,1.0,0.0,-1.0,99.0

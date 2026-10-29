@@ -1,0 +1,4 @@
+{
+  "donnees": {"disciplines": ["PLAT"], "profil": "plat"},
+  "selection": {"cote_min_auto": true, "cote_max_auto": true, "marge_ev": 0.10}
+}

@@ -1,0 +1,8 @@
+strategie,paris,courses_jouees,mise_totale,profit,roi_pct,roi_ic90_pct,proba_roi_negatif,taux_reussite_pct,cote_moy_paris,rapport_moy_gagnants,drawdown_max,serie_perdante_max,bankroll_finale,drawdown_max_pct
+Modèle value — mise fixe,7,7,7.0,-7.0,-100.0,[-100.0 ; -100.0],1.0,0.0,9.99,,7.0,7,,
+Modèle value — Kelly 0.25,7,7,4.53,-4.53,-100.0,[-100.0 ; -100.0],1.0,0.0,9.99,,4.53,7,95.47,4.53
+Marché seul value — mise fixe,1,1,1.0,-1.0,-100.0,[-100.0 ; -100.0],1.0,0.0,6.5,,1.0,1,,
+Favori systématique,4825,4825,4825.0,-658.5,-13.65,[-17.0 ; -10.3],1.0,30.18,3.08,2.86,663.2,27,,
+Tous les chevaux dans la plage de cotes,35483,4825,35483.0,-6645.6,-18.73,[-20.3 ; -17.1],1.0,11.61,10.64,7.0,6661.1,34,,
+Hasard (1 cheval/course),4825,4825,4825.0,-1544.55,-23.7,[-33.8 ; -12.7] (simulations),1.0,8.06,28.62,8.43,1563.65,83,,
+Hasard dans la plage de cotes,4825,4825,4825.0,-959.55,-18.12,[-24.4 ; -12.2] (simulations),1.0,12.15,9.96,6.6,961.7,60,,
